@@ -1,0 +1,11 @@
+Package: sparklingwater
+Title: Datasets for sundry applications
+Description: Sparkling Water dataset from Léon Bottou's COS 405 lecture on PCA
+Version: 0.1
+Author: Satyavarta <satyavarta@gmail.com>
+Maintainer: Satyavarta <satyavarta@gmail.com>
+Depends:
+    R (>= 3.0.2)
+License: MIT
+LazyData: true
+Encoding: UTF-8
